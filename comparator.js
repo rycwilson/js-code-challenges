@@ -20,5 +20,5 @@ function comparator (a, b) {
     else if (a < b) return -1;
     else return 0;
   }
-  else throw "Mismatched types: " + typeof a + ", " + typeof b;
+  else throw "Floating-point numbers or mismatched types: " + "a: " + typeof a + ", b: " + typeof b;
 }
