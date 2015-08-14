@@ -46,3 +46,16 @@ A string is considered to be in title case if each word in the string is either 
 
 Write a function that will convert a string into title case, given an optional list of exceptions (minor words). The list of minor words will be given as a string with each word separated by a space. Your function should ignore the case of the minor words string -- it should behave in the same way even if the case of the minor word string is changed.
 
+## diamond.js (fundamentals)
+Usage:
+
+- node diamond.js n  
+- (n is number of * in middle row)
+
+Task:
+
+Print a diamond shape on the screen using asterisk ("*") characters.
+
+The shape that will be returned from print method resembles a diamond, where the number provided as input represents the number of *’s printed on the middle line. The line above and below will be centered and will have 2 less *’s than the middle line. This reduction by 2 *’s for each line continues until a line with a single * is printed at the top and bottom of the figure.
+
+Return null if input is even number (as it is not possible to print diamond with even number).
