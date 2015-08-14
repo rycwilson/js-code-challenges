@@ -49,7 +49,8 @@ Write a function that will convert a string into title case, given an optional l
 ## diamond.js (fundamentals)
 Usage:
 
-- node diamond.js n  // n is number of * in middle row
+- node diamond.js n  
+- (n is number of * in middle row)
 
 Task:
 
