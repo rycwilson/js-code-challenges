@@ -69,3 +69,5 @@ There are a lot of people at the cinema box office standing in a huge line. Each
 Can the clerk sell a ticket to each person in line and give them the correct change if he initially has no money and sells the tickets strictly in the order of people in line?
 
 If so, return "YES".  Otherwise, return "NO".
+
+Note: Solution is written for the more general case of an arbitrary number of different bills
