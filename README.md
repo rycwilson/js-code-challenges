@@ -64,10 +64,8 @@ Return null if input is even number (as it is not possible to print diamond with
 
 Description:
 
-The new "Avengers" movie has just been released! There are a lot of people at the cinema box office standing in a huge line. Each of them has a single 100, 50 or 25 dollars bill. A "Avengers" ticket costs 25 dollars.
+There are a lot of people at the cinema box office standing in a huge line. Each of them has a single 100, 50, or 25 dollar bill. A ticket costs 25 dollars.
 
-Vasya is currently working as a clerk. He wants to sell a ticket to every single person in this line.
+Can the clerk sell a ticket to each person in line and give them the correct change if he initially has no money and sells the tickets strictly in the order of people in line?
 
-Can Vasya sell a ticket to each person and give the change if he initially has no money and sells the tickets strictly in the order people follow in the line?
-
-Return YES, if Vasya can sell a ticket to each person and give the change. Otherwise return NO.
+If so, return "YES".  Otherwise, return "NO".
