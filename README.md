@@ -31,12 +31,12 @@ Only test using single words
 Palindrome Stretch Goal
 - Extend your function to successfully test phrases (without punctuation.) In the test, blank spaces should not be considered in comparing the forwards and backwards forms of hte phrases.
 
-Stretch goal: 
+Stretch goal:
 
 - Alter your function to only use a single traversal of the phrase without using any built-in String or array methods. Hint: Research loops!
 
 ## titleCase.js (fundamentals)
-Usage: 
+Usage:
 
 - node titleCase.js "string to convert" "minor words"
 
@@ -49,7 +49,7 @@ Write a function that will convert a string into title case, given an optional l
 ## diamond.js (fundamentals)
 Usage:
 
-- node diamond.js n  
+- node diamond.js n
 - (n is number of * in middle row)
 
 Task:
@@ -71,3 +71,9 @@ Can the clerk sell a ticket to each person in line and give them the correct cha
 If so, return "YES".  Otherwise, return "NO".
 
 Note: Solution is written for the more general case of an arbitrary number of different bills
+
+## fibonacci.js
+
+Description:
+
+Implement a "memoized" solution to calculating any given fibonacci sequence
