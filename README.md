@@ -60,6 +60,11 @@ The shape that will be returned from print method resembles a diamond, where the
 
 Return null if input is even number (as it is not possible to print diamond with even number).
 
+## pyramid.js
+
+Variation on diamond.js
+
+
 ## tickets.js
 
 Description:
