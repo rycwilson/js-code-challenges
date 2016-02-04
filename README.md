@@ -82,3 +82,10 @@ Note: Solution is written for the more general case of an arbitrary number of di
 Description:
 
 Implement a "memoized" solution to calculating any given fibonacci sequence
+
+## multi-choice.js
+
+Description:
+
+Take an array of objects and randomly select x number of items for quiz-style multiple choice.
+Include the correct choice in the list of choices, and make sure the ordering of choices is random
